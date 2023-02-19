@@ -1,0 +1,28 @@
+table{
+    
+    width: auto;
+    margin-bottom: 20px;   
+}
+thead th{
+    padding: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: left;
+    color: #444441;
+    border-top: 2px solid #716561;
+} 
+tbody td{
+    padding: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #444441;
+    border-top: 1px solid #716561;
+}
+
+button{
+    border-radius: 5px;
+    border-color:transparent;
+    background-color: #cdffc4;
+    color: #292929;
+}
